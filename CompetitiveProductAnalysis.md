@@ -62,7 +62,26 @@ BGM | 随拍随播 | 拍完再选 | 同抖音
 
 #### 用户分布（地域、年龄）
 
+- 地域分布
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E6%8A%96%E9%9F%B3.png)
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E5%BF%AB%E6%89%8B.png)
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E7%81%AB%E5%B1%B1%E5%B0%8F%E8%A7%86%E9%A2%91.png)
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E5%BE%AE%E8%A7%86.png)
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91.png)
+
+- 年龄分布对比
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E7%94%A8%E6%88%B7%E5%B9%B4%E9%BE%84%E5%88%86%E5%B8%83.png)
+
+
 #### 舆情分析/传播量
+
+- 整体搜索指数
+
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E6%90%9C%E7%B4%A2%E6%8C%87%E6%95%B0.png)
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E6%95%B4%E4%BD%93%E8%B6%8B%E5%8A%BF.png)
+
+- 资讯指数
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E8%B5%84%E8%AE%AF%E6%8C%87%E6%95%B0-90%E5%A4%A9.png)
 
 ### 内容创作领域（8个）
 #### 创立时间（列出内容创作发展路径）
@@ -90,3 +109,4 @@ BGM | 随拍随播 | 拍完再选 | 同抖音
 CHANGELOG
 - 180623 jiawen列出大纲
 - 180624 jiawen 增加创立时间对比
+- 180625 xixi 增加用户分布及舆情数据，来源百度指数
