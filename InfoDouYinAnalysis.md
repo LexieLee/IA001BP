@@ -14,7 +14,7 @@
 
 ### 股权结构
 
-疑似实际控制人： 张一鸣
+疑似实际控制人： 张一鸣。竟然占有 98.81% 的股份，另 1.19% 股份在叶薇薇手中。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/7259374-b6943f09483f5f96.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/7259374-44c9adc5985324cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -53,15 +53,22 @@
 
 检索后发现，抖音在春节前公布了抖音海外版“Tik Tok”获日本App Ape大奖的消息，可能这一信息为抖音带来了不少流量。
 
-### 从百度舆情看抖音的竞争
+### 从百度舆情看抖音的发展
 
 [百度舆情-互联网舆情专业分析系统](http://yuqing.baidu.com/saas/public/public?cate_id=&relate=1&type=neg&time=&timefrom=1522512000000&timeto=1525017600000&media=weixin&pro=&city=&county=&mediaText=%E5%85%A8%E9%83%A8%E5%BE%AE%E4%BF%A1#)
 
-从百度舆情分析可以看出，今年 5 月，抖音在微信上的舆情最多，且负面舆情超过了正面的。。。。。
+从百度舆情分析可以看出，今年 5 月，抖音在微信上的舆情最多，且负面舆情超过了正面的。（推测在 5 月时，腾讯头条打得最为火热。）
 
-而在 2 月春节前后，抖音多在微博报道，几乎都为正面舆情，而在微信上则鲜有报道。
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-11f2691f9a298d45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-可以猜测抖音的宣传渠道选择了微博而不是微信，5 月腾讯、头条打的最为火热。
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-82b33d255e9c2fcf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+抖音负面新闻最多的一条是「为什么我建议你卸载抖音」，在微信上有 30 次发布[Facepalm]。这篇文章最初由「二更食堂」发布，随后 58+ 媒体转发（有些更改了标题），推测此次为竞品攻击，杭州二更网络科技有限公司旗下的二更视频为原创短视频内容平台，与抖音存在竞争关系。
+
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-8092ef2ecc72c191.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+而在 2 月春节前后，抖音多在微博报道，几乎都为正面舆情，而在微信上则鲜有报道。从 4 月起，微信中关于抖音的报道明显增多。为何呈现这一情况需结合头条在各渠道的流量情况分析。初步推测，抖音在 1-2 月主要选择了微博渠道宣传，而几乎没利用微信渠道宣传（待验证。。。。）
+
 
 ------
 
@@ -108,3 +115,8 @@
 - [北京微播视界科技有限公司工商信息_电话_地址_信用信息_财务信息_企查查](https://www.qichacha.com/firm_747d3a16e63342ba57c8771bde561a9e.shtml)
 - [北京微播视界科技有限公司_【工商信息_注册信息_信用报告_财务报告_招聘信息_电话地址】查询-天眼查](https://www.tianyancha.com/company/2350593501)
 - [百度指数](https://zhishu.baidu.com/?tpl=trend&type=0&area=0&time=13&word=%B6%B6%D2%F4%2C%BF%EC%CA%D6)
+
+# CHANGELOG
+
+- 180624 晴子创建
+- 180625 晴子增加舆情分析
