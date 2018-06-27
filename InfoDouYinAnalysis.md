@@ -59,13 +59,15 @@
 
 从百度舆情分析可以看出，今年 5 月，抖音在微信上的舆情最多，且负面舆情超过了正面的。（推测在 5 月时，腾讯头条打得最为火热。）
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-11f2691f9a298d45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-cb40d2fc4c71648f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![image.png](https://upload-images.jianshu.io/upload_images/7259374-82b33d255e9c2fcf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-抖音负面新闻最多的一条是「为什么我建议你卸载抖音」，在微信上有 30 次发布[Facepalm]。这篇文章最初由「二更食堂」发布，随后 58+ 媒体转发（有些更改了标题），推测此次为竞品攻击，杭州二更网络科技有限公司旗下的二更视频为原创短视频内容平台，与抖音存在竞争关系。
+关于抖音的新闻最多的前 10 条分别为。。。。
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-8092ef2ecc72c191.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-f5e672a5e0c3a927.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+抖音负面新闻最多的一条是「为什么我建议你卸载抖音」，在微信上有 30 次发布[Facepalm]。这篇文章最初由「二更食堂」发布，随后 58+ 媒体转发（有些更改了标题），推测此次为竞品攻击，杭州二更网络科技有限公司旗下的二更视频为原创短视频内容平台，与抖音存在竞争关系。
 
 而在 2 月春节前后，抖音多在微博报道，几乎都为正面舆情，而在微信上则鲜有报道。从 4 月起，微信中关于抖音的报道明显增多。为何呈现这一情况需结合头条在各渠道的流量情况分析。初步推测，抖音在 1-2 月主要选择了微博渠道宣传，而几乎没利用微信渠道宣传（待验证。。。。）
 
