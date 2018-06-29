@@ -14,14 +14,27 @@
 
 ## 趋势走向
 
-- [易观 - 数据分析驱动业务升级](https://www.analysys.cn/)
-- [艾瑞数据 - 数据改变认知 提升企业效能](http://data.iresearch.com.cn/)
 - [艾媒网-全球领先的新经济行业数据发布平台](http://www.iimedia.cn/)
 	- [艾媒报告 | 2018年中国社交类短视频平台专题报告](http://www.iimedia.cn/61347.html)
 - [百度指数](https://zhishu.baidu.com/#/)
 - [阿里数据－阿里指数](https://dt.alibaba.com/alizs.htm)
 - [360趋势-大数据分享平台](https://index.so.com/)
 - [CNNIC](https://cnnic.com.cn/IDR/ReportDownloads/)
+
+## 数据信息
+
+- [易观 - 数据分析驱动业务升级](https://www.analysys.cn/)
+- [艾瑞数据 - 数据改变认知 提升企业效能](http://data.iresearch.com.cn/)
+- [极光数据服务 - 国内领先的移动大数据服务平台](https://www.jiguang.cn/dataservice)
+
+## 工具类
+
+- [资源 | 想进行数据科学项目却没有数据集？26个数据集网站汇总](https://mp.weixin.qq.com/s/FU7-_vnl99BcLPMYmlpljg)
+- Tableau [Business Intelligence and Analytics | Tableau Software](https://www.tableau.com/)
+- Google Chart [Charts  |  Google Developers](https://developers.google.com/chart/)
+- ECharts [ECharts](http://echarts.baidu.com/)
+- Jupyter [Project Jupyter | Install](http://jupyter.org/install)
+- D3.js [D3.js - Data-Driven Documents](https://d3js.org/)
 
 # CHANGELOG
 
