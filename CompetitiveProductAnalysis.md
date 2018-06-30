@@ -60,6 +60,20 @@ BGM | 随拍随播 | 拍完再选 | 同抖音
 
 
 #### 下载量/用户量/日活
+苹果市场近七日榜单排名：抖音-快手-微视-火山小视频
+
+![image.png](https://upload-images.jianshu.io/upload_images/3676517-d88b3c460b0f9468.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+安卓总下载量对比
+
+![image.png](https://upload-images.jianshu.io/upload_images/3676517-dcc35c1c9b69e954.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+6月安卓日均下载量对比
+
+![image.png](https://upload-images.jianshu.io/upload_images/3676517-3a627e4bd947cd15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+苹果市场ASO指数
+
+![image.png](https://upload-images.jianshu.io/upload_images/3676517-a150c6a1020798e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 用户分布（地域、年龄）
 
@@ -111,3 +125,4 @@ CHANGELOG
 - 180623 jiawen列出大纲
 - 180624 jiawen 增加创立时间对比
 - 180625 xixi 增加用户分布及舆情数据，来源百度指数
+- 180630 jiawen增加下载量对比
