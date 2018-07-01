@@ -40,6 +40,13 @@
 	- 继续完善分类、用户特征等，力求将数据可视化（推荐可视化工具 Tableau）
 	- 是否签约的比例数据存疑，是否将近 80% 作者为独立个人未签约？
 
+### 棒棒补充产品分析资料
+
+- [抖音的下一个目标是谁？](https://mp.weixin.qq.com/s/1kT40h27ZIAdWrndFv1pbw)
+- [【产品分析】小红书APP](https://mp.weixin.qq.com/s/TcD2K6aUl-yqSZfeEM5CAw)
+- [知乎产品分析报告](https://mp.weixin.qq.com/s/wLKdgGX5cacBzJf6ohhvmg)
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-58f7edb75d387eb3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ### 梳理 storyline，如何将三部分串起来
 
 - 梳理每部分重点，整合。
@@ -71,4 +78,5 @@
 
 # CHANGELOG
 
+- 180630 晴子增加棒棒提供的参考资料
 - 180629 晴子创建
