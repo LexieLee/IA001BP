@@ -52,7 +52,6 @@
 
 #### 2. 创立时间与投融资关系
 
-  ![image.png](https://upload-images.jianshu.io/upload_images/3676517-2bc7863a13e41e28.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 抖音
   - 2016.9 上线
