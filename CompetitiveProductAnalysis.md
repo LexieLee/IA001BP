@@ -85,11 +85,11 @@
 |--------|-----------|------|-------|-------------|--------|
 | 时长     | 15-60s    | 5分钟内 | 15s   | 11.5-60s    | 15-60s |
 | 推荐机制注重 | 用户观感      | 用户观感 | 高赞    | 创作者         | 用户观感   |
-| 发现页    | 上下刷       | 找    | 上下刷   | 上下刷         | 刷      |
+| 发现页    | 上下刷       | 找    | 找完可上下刷   | 找         | 上下刷      |
 | 交互     | 双击点赞、单击暂停 | 单击播放 | 双击点赞  | 双击点赞，单击隐藏图标 | 双击点赞   |
 | 体验     | 竖屏        | 横屏为主 | 竖屏    | 竖屏          | 竖屏     |
 | BGM    | 随拍随播      | 后台发布 | 随拍随播  | 拍完再选        | 随拍随播   |
-| 直播     | 有直播       | 有直播  | 有直播   | 有直播         | 有直播    |
+| 直播     | 一定粉丝量有直播       | 有直播  | 有直播   | 有直播         | 无直播    |
 
 
 #### 4. 产品定位及用户分布
@@ -167,9 +167,7 @@
 图片资源
 ![image.png](https://upload-images.jianshu.io/upload_images/3676517-90ba86a2c56dc835.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/3676517-fa3be9276b06bb5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://upload-images.jianshu.io/upload_images/3676517-fc57b30046fbb415.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://upload-images.jianshu.io/upload_images/3676517-8c3253de5ae556b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://upload-images.jianshu.io/upload_images/3676517-f768d71e47c191d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 参考资源
 
 
