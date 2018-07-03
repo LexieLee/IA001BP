@@ -1,87 +1,90 @@
-# 抖音成功模式分析
+# 抖音成功模式市场驱动力分析
 
-本部分旨在从宏观层面分析抖音成功的元素；行业、支付方对短视频行业的驱动力；抖音模式又迎合了什么中国用户的需求特点和服务空白
+抖音可以说是今年以来最火爆的应用，是全球最快逼近1.5亿用户的APP；估值甚至逼近母公司今日头条；可以说是风头一时无二。
 
-## 移动互联网驱动力
+抖音模式的成功收益与哪些市场驱动力？抖音的成功又如何影响着短视频行业的爆发？本文第一部分旨在解释抖音模式的宏观因素。
 
-### 1、移动互联网已经到达一定成熟期，用户规模接近饱和；
+## 1、短视频行业快速发展
 
-这说明增长模式已经进入到第二曲线，单纯“圈地“，抢占新用户的人口/流量红利已经被收割完毕；硬软件市场获得增量的竞争更加剧烈，市场对服务、商业流程提效等创新要求更高；
+### 1.1 移动互联网发展的范式转移：从争用户下载量转变成了争用户时长
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-c959efea2b3e3e7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+全球智能机出货渗透率达90%，且17年几乎无增长移动互联网已经到达一定成熟期，用户规模接近饱和；移动互联网用户近50%，增长率在17年急速放缓；说明移动市场的用户规模之争已经接近饱和；
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-22faecca59321cd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-ec22115da06030f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图1：全球智能手机渗透率接近90%，且17年几乎0增长；数据来源：互联网女皇报告2018
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-d7bc7120df736968.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这说明移动互联网增长模式已经进入到第二曲线（第一曲线是拼装机量、下载量、日活等规模指标），单纯“圈地“，抢占新用户的人口/流量红利已经被收割完毕；硬软件市场获得增量的竞争更加剧烈，市场不得不用技术、产品服务或商业流程提效等创新投入，应对越来越激烈的市场压力。
 
-具体来看，会直接促成市场的：
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-a664f25f5138b613.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图2：全球互联网用户增速疾速放缓  数据来源：2018互联网女皇报告
 
-- 1.1	硬件红利：渗透率到达一定规模后，手机厂商无法获得规模增量；围绕存量的竞争愈发激烈，廉价智能机越来越专注功能、体验创新，以及价格压缩；尤其在中国市场，小米、vivo的高性价比和换机迭代速度较快；硬件上对依赖性能的应用支持更好 
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-b9228ab5944dc779.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图3：中国市场移动互联网用户自14年开始增速持平，17年增速显著下跌  数据来源：2018互联网女皇报告
 
-![](https://upload-images.jianshu.io/upload_images/7259374-ef359350db2bde7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+市场规模的饱和，硬件和软件厂商又如何应对趋势变化，带来怎样的创新服务？
 
-- 1.2、图文、影音类AI、AR技术和产品的大力投入
-业务范式转移提供了更多媒体产品服务：流量之争到现在的时长之争，从之前关注总下载量，DAU转变成现在更看重停留时长等反应存量市场活跃的指标；市场更看重娱乐、媒体类产品和服务的创新
+#### 1.2 硬件配置升级，影音娱乐类产品体验更完善，也是其发展迅速的重要驱动力 ：
 
-*需要补充一张图：近年来媒体类、娱乐类APP的规模 from:questmobile*
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-2df95ae55f625616.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+全球智能手机渗透率接近饱和（90%），中国市场新智能手机渗透率40%；手机厂商无法获得规模增量，只能不断优化手机的性能、功能，同时压缩成本降低售价，让存量用户为更好体验换机（摩尔定律）。
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-dac2c1b8f589b049.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-7d328a78371419ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图4：新智能机价位持续降低，但同时功能在持续升级；这能侧面说明用户换新机动力充足
+所以越来越多的用户能用上廉价智能机，享受着更好的硬件和软件体验。手机硬件条件的完善，对性能配置要求高的软件更友好，也催化着各类多媒体应用的快速发展，比如手机相机、AR和AI加持拍照、相片处理类APP。
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-ea6574cd567c286a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+业务范式转移提供了更多媒体产品服务：流量之争到现在的时长之争，从之前关注总下载量，DAU转变成现在更看重停留时长等反应存量市场活跃的指标；市场更看重娱乐、媒体类产品和服务的创新。因此近年来，媒体数娱类应用增长更加迅猛
+
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-791f4cc5fd0a4a82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图5：二级类目时长同比增速对比，影音娱乐类增长
+
+### 1.3 支付方驱动
+
+1.3.1 国内投资分布集中在文化娱乐，比较接近O2O/电商，也正是看中此类应用在占领用户时长上的优势；
+
+传统文化娱乐类中主要包含长视频、游戏、资讯图文和短视频；其中短视频是一种更具象，同时成产成本
+
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-09f021a25bfb674c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图6：2017国内移动互联网投资分布中，文化娱乐类已经逼近电商 数据来源：中国通信信息研究院
+
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-a30b00a8af737dbb.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图7：重点短视频生产者融资事件  数据来源：腾讯科技
 
 
-## 支付方驱动
+1.3.2 广告主对在线、视频类投资规模在增长
 
-- 2.1 近年来对科技公司的投资规模和笔数在递增；市场对kill time、社交类服务比较看好；变现模式比较明确
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-408b8453e98a23fd.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图8：移动广告投放中，短视频投资比例将持续增长    来源：InMobi 2017中国程序化广告报告
 
-*需要按照下面维度，补充一张近年来移动互联网投资类目分布和趋势*
-
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-a561c4bccc929f67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-da60ebe6e789360d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这其中，就广告形式而言，视频广告无疑是最受关注的。据eMarketer数据显示，2016年中国程序化数字视频广告花费达到了12.1亿美元，增长率超过100%。视频在整体程序化视频展示广告花费中所占的比重也从2014年的4.2%上升到了10.9%，增长超过了2倍。同时，eMarketer还预测，在未来至少2年内，程序化视频广告花费的增长将继续保持对电商广告、横幅广告、富媒体等其他广告形式的领先。据InMobi移动广告网络调查的结果显示，移动视频广告的点击率平均是横幅广告的5倍，原生广告的2倍，插屏广告的2倍，视频广告是效果最好的。
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-ed8624be982cc437.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图9：这也是因为APP视频广告转化效率最高  来源：InMobi 移动网络调查 2017
 
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-56acf929e6550954.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+1.3.3 平台驱动：各家都开始逐利与短视频赛道并且斥巨资争夺、奖赏内容生产者
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-77da2a97be061776.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图10：互联网巨头纷纷布局短视频行业   主要聚焦短视频社区、短视频工具和短视频社交平台三种产品类型
 
-- 2.2 广告主对在线、视频类投资规模在增长
+随着互联网进入下半场，如何寻找新的流量增长点成为竞争关键。kill_time的领域中，长视频、游戏、资讯、直播都已经发展成熟；并且周期较长；短视频作为一类更具象、更碎片化的媒体，交互上更沉浸，消费成本更低，更容易获得用户亲睐。这一阶段，巨头日活、停留时长都已经接近饱和，也在寻找一个新的增长点；短视频同时也能丰富内容产品矩阵，形成更好的壁垒。
 
-*补充一张广告营销规模分布和规模*
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-f2c00ca7dbb78faf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## 需求驱动
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-722a23583dc35956.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图11：自制图总结短视频行业发展良性循环驱动力  
 
-- 3.1 个性化算法成为内容类服务满意度的主要驱动力；今日头条起初产品定位和增长路径主要依赖算法，迎合了用户的需求
 
-智能硬件和软件的普及，移动流量的资费降低；三者加剧了移动时代的信息生产、分享和采集量；信息和内容到了一个前所未有的爆炸期
-	
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-9e49f252a4f0ebd5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 1.4 短视频行业大爆发带来的发展优势
 
-因此围绕，信息分发的算法优化、个性化服务也在业务中变得越来越重要，降噪、基于兴趣，沉浸体感，也成为用户体感满意度的重要指标
+1、用户教育：市场营销，还是规模下沉，用户对短视频形态更容易接受
+2、内容供给链成熟；MCN模式或是PGC、UGC成产方式，内容调性和品质都更有把控，更精细化
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-b4d47ce259dda987.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-5a4be07013bb21a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 3.2用户缺少一个够格承载 “在线身份” 的内容平台和社交网络
-中国市场为啥没有出现facebook, 随机社交网络；不代表市场不需要，只是没有出现真正能代表年轻人社交名片的产品；抖音模式（产品和运营）比较接近社交名片的想象
-此前最接近的是人人网，但没有把握好人群迁移
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-af1cef9427b3dde1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-*补上无标度网络和随机网络图，需要修改下*
+## 2、短视频领域中，短视频社交类应用填补需求空白；抖音定位精准
 
-像 Facebook 这样的产品，它们承载了每个人在虚拟世界的公共身份。它不追求私密，而是为了让所有人快速地了解你。用户会在发表内容前更加用心，达到维护自己网络身份的目的。然而，这种身份必须被一种约定俗成的价值观认可，社交网络才有存在的可能。
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-73e73b196807730b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 图12：中国影音娱乐消费时长增长变化中，唯一受到侵蚀的是社交平台。也侧面说明短视频社交相较于传统的社交平台，对社交需求满足地更好；否则受到侵蚀的应该是内容消费类的资讯、长视频、音频等类目  数据来源：2018互联网女皇报告
 
-并不是所有的产品都能做到这一点。首先，许多成熟的社交产品已经略显疲态，无论在产品功能还是社区调性上已经固定。为了流量和规模，更偏向媒体化，比如微博；
+中国用户缺少一个够格承载 “在线身份” 的内容平台和社交网络。大众化的、名片式的社交网络，可以除了微信QQ等即时通讯外，让更多人认识自己。像 Facebook 这样的产品，它们承载了每个人在虚拟世界的公共身份。它不追求私密，而是为了让所有人快速地了解你。用户会在发表内容前更加用心，达到维护自己网络身份的目的。然而，这种身份必须被一种约定俗成的价值观认可，社交网络才有存在的可能。并不是所有的产品都能做到这一点。首先，许多成熟的社交产品已经略显疲态，无论在产品功能还是社区调性上已经固定。为了流量和规模，更偏向媒体化，比如微博；陌陌、脉脉、人人网为代表的社交平台，又因为过于垂直，不可能大众化全民化。一些基于PC的好的社区产品又没有很好地把握移动互联网的趋势，比如“豆瓣”和“贴吧” 。
 
-一些基于PC的好的社区产品又没有很好地把握移动互联网的趋势，比如“豆瓣”和“贴吧” ；
-
-“我想随便看看” 和 “我想看点好东西” 之间，好东西必然会带来更大的用户粘性。Instagram 的成功说明了这一点。它不仅在全世界范围内收获了大量用户，更在广告投放上拔得头筹。根据研究机构 Forrester 的调查，4.21% 的用户会点赞品牌内容，远高于 Facebook 的 0.07%。
-
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-ac54d8974ca8d000.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-# CHANGELOG
-
-- 180625 棒棒整理创建，晴子帮忙上传
+因此，当快手和抖音以短视频社交为定位的产品出现时，用户用简单、快速就能生产的短视频记录生活、表达自我时，其他社交网络应用就自然被侵蚀。抖音、快手是一个一个足以让人投入精力维护（创作门槛、发布门槛较低），承载虚拟身份的内容平台。
