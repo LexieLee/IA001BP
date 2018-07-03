@@ -8,26 +8,24 @@
 短视频一般指时长在五分钟以内的视频传播内容。从 2011 年至今，长达 7 年的时间里，数百个短视频 App 进入中国市场。2016-2017 年短视频 App 上线数量最多，分别为 116 和 119 个，上线时间数量分布如下图所示。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/7259374-adabbc3e030bce77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图1：从2014年开始短视频行业迅猛发展 数据来源：七麦研究院 2018短视频APP行业分析报告
 
 1. 按照行业巨头派系划分
 
 	按照行业巨头派系划分，可将短视频 App 分为头条系（抖音、火山小视频、西瓜视频）、阿里系（土豆视频）、新浪系（秒拍、小咖秀）、百度系（秒懂百科、Nani小视频、梨视频、全民小视频、人人视频）、网易系、腾讯系（微视、NOW、闪咖、梨视频、下饭视频、速看、时光小视频）以及 360 系（快视频）
 
 	![image.png](https://upload-images.jianshu.io/upload_images/7259374-989f221f017b93f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图2：巨头先后进入短视频行业，头条领跑 数据来源：七麦研究院 2018短视频APP行业分析报告
 
 2. 按照产品月活及周活跃渗透率划分
 
 	分析当下热门的短视频应用，发现以下几个应用月活和周活跃渗透率较高——快手、抖音、西瓜视频、火山小视频等，起步较晚的微视环比增幅较高，为 43.94%。
 
 	![易观-月活](https://upload-images.jianshu.io/upload_images/7259374-a78b707661ef04a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-	> 注：     
-	> 排名依据：月活跃人数（万）。        
-	> 数据来源：易观数据。   
-	> 数据区间：2018.05.01-2018.05.31。
+##### 图3：2018年5月短视频行业月活跃人数前五 数据来源：易观数据
 
 	![image.png](https://upload-images.jianshu.io/upload_images/7259374-6bc8a0a311daf6ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+##### 图4：短视频行业周活跃渗透率排名 数据来源：猎豹大数据
 	> 注：     
 	> 排名依据：周活跃渗透率。    
 	> 周活跃用户渗透率=app的周活跃用户数/中国市场总周活跃用户数。     
@@ -99,37 +97,45 @@
 | 生产模式   | 兼具         | PGC         | UGC          | 兼具       | 兼具        |
 | 内容     | 潮流、模仿      | 新闻视频        | 搞笑、创意        | 搞笑、生活    | 潮流、模仿     |
 | 定位     | 年轻人的短视频社区  | 今日头条的新闻视频   | 三四线农村创作平台    | 专注草根创作平台 | 年轻人的短视频社区 |
-| 主要人群年龄 | 19-24岁     | 25-34岁      | 25-34岁       | 19-24岁   | 19-24岁    |
+| 主要人群年龄 | 24岁以下     | 25-34岁      | 25-34岁       | 19-24岁   | 19-24岁    |
 | 主要分布城市 | 一二线城市      | 综合          | 三四线城市        | 二三线城市    | 一二线城市     |
 | 运营策略   | 强技术强流量和强运营 | 强技术强流量      | 强技术强流量       | 不明显      | 强流量弱运营    |
 | Slogan | 记录美好生活     | 西瓜视频，给你新鲜好看 | 分享生活，让世界为你点赞 | 记录世界，记录你 | 发现更有趣     |
 
 - 年龄分布
 ![360 指数](https://upload-images.jianshu.io/upload_images/7259374-cb574b488e2d66a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图5：抖音用户主要为18岁以下及19-24岁，西瓜视频主要为25-34岁，快手主要为19-24岁，火山小视频主要为25-34岁，微视主要为19-24岁。男性用户均多于女性用户。 数据来源：360指数
 
 - 地域分布
 ![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E6%8A%96%E9%9F%B3.png)
+##### 图6：抖音用户地域分布前五为：北京、上海、杭州、深圳、广州  数据来源：百度指数
 ![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E5%BF%AB%E6%89%8B.png)
+##### 图7：快手用户地域分布前五为：北京、保定、石家庄、郑州、邯郸  数据来源：百度指数
 ![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E7%81%AB%E5%B1%B1%E5%B0%8F%E8%A7%86%E9%A2%91.png)
+##### 图8：火山小视频用户地域分布前五为：哈尔滨、北京、长春、沈阳、郑州  数据来源：百度指数
 ![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E5%BE%AE%E8%A7%86.png)
+##### 图9：微视用户地域分布前五为：北京、深圳、上海、广州、杭州  数据来源：百度指数
 ![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83-%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91.png)
+##### 图10：西瓜视频用户地域分布前五为：北京、重庆、成都、上海、广州  数据来源：百度指数
 
 
 #### 5. 下载量/用户量/日活
-苹果市场近七日榜单排名：抖音-快手-微视-火山小视频
+
 
 ![image.png](https://upload-images.jianshu.io/upload_images/3676517-d88b3c460b0f9468.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-安卓总下载量对比，快手时间优势明显，累计的下载量非常突出。
+##### 图11：苹果市场近七日榜单排名：抖音-快手-微视-火山小视频  数据来源：蝉大师
 
 ![image.png](https://upload-images.jianshu.io/upload_images/3676517-dcc35c1c9b69e954.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图12：安卓总下载量对比，快手时间优势明显，累计的下载量非常突出。 数据来源：蝉大师
 
-6月安卓日均下载量对比，快手比抖音下载量多
 
 ![image.png](https://upload-images.jianshu.io/upload_images/3676517-3a627e4bd947cd15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图13：18年6月安卓日均下载量对比，快手比抖音下载量高。微视下载量依然相对低。 数据来源：蝉大师
 
-苹果市场ASO指数，可以推断苹果市场抖音下载量比快手多。
+
 
 ![image.png](https://upload-images.jianshu.io/upload_images/3676517-a150c6a1020798e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图14：苹果市场ASO指数，可以推断苹果市场抖音下载量比快手要高。微视在苹果市场表现比安卓市场相对佳。  数据来源：蝉大师
 
 #### 6. 舆情分析/传播量
 
@@ -138,22 +144,26 @@
 四月前，西瓜视频、火山小视频舆情量较高，且变化较规律，但四月后，两款 App 舆情量和关注量显著下降，可能人们对这两款 App 的关注度下降，用户流失到其他 App 了，如下图。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/7259374-0ed32a373e60dc77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图15：西瓜视频、火山小视频、微视关注量变化对比，5月后三款App均显著下降。 数据来源：360指数
 
 微视从 4 月起舆情量上升，但变化规律不明显，检索后发现，微视的舆情主要受到今日头条和腾讯摩擦的舆情等影响，例如「微视抄袭抖音」、「马化腾张一鸣朋友圈开撕」、「微视 30 亿元补贴」等，见下图。
 
 ![微视-百度指数](https://upload-images.jianshu.io/upload_images/7259374-01e0efdeedb0e9d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图16：受舆情的影响，微视关注量偶尔有显著增加  数据来源：360指数
+
 
 近三个月中，抖音、快手舆情和传播量较高，且抖音普遍高于其他四款 App。
 
-- 百度指数
 
-![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E6%90%9C%E7%B4%A2%E6%8C%87%E6%95%B0.png)
 ![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E6%95%B4%E4%BD%93%E8%B6%8B%E5%8A%BF.png)
-![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E8%B5%84%E8%AE%AF%E6%8C%87%E6%95%B0-90%E5%A4%A9.png)
+##### 图17：搜索指数整体趋势。近三月抖音、快手舆情和传播量较高，且抖音普遍高于其他四款app 数据来源：百度指数
 
-- 360 指数
+![image.png](http://oa8v8fq7d.bkt.clouddn.com/%E8%B5%84%E8%AE%AF%E6%8C%87%E6%95%B0-90%E5%A4%A9.png)
+##### 图18：关键词资讯指数 数据来源：百度指数
+
 
 ![360](https://upload-images.jianshu.io/upload_images/7259374-8092751af3a00cff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 图19：关注趋势 数据来源：360指数
 
 ### 结论
 
@@ -164,12 +174,8 @@
 - 最「接地气」：火山小视频发展不温不火，一直处于中游水平，火山小视频与快手的用户人群有交叉的地方，其主要面向的是三四线城市的农民群体，视频创作者也非常单纯——给我一个赞就好！
 
 
-图片资源
-![image.png](https://upload-images.jianshu.io/upload_images/3676517-90ba86a2c56dc835.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://upload-images.jianshu.io/upload_images/3676517-fa3be9276b06bb5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 ## 参考资源
-
+- [七麦研究院 2018短视频APP行业分析报告](https://www.qimai.cn/research)
 
 # CHANGELOG
 
@@ -178,3 +184,4 @@
 - 180625 xixi 增加用户分布及舆情数据，来源百度指数
 - 180630 jiawen增加下载量对比
 - 180701 晴子增补
+- 180703 jiawen增加图片说明
