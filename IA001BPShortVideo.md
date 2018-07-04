@@ -28,15 +28,15 @@
 全球智能机出货渗透率达90%，且17年几乎无增长移动互联网已经到达一定成熟期，用户规模接近饱和；移动互联网用户近50%，增长率在17年急速放缓；说明移动市场的用户规模之争已经接近饱和；
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-ec22115da06030f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-1：全球智能手机渗透率接近90%，且17年几乎0增长；数据来源：互联网女皇报告2018
+##### 图 1-1：全球智能手机渗透率接近90%，且17年几乎0增长；数据来源：互联网女皇报告2018
 
 这说明移动互联网增长模式已经进入到第二曲线（第一曲线是拼装机量、下载量、日活等规模指标），单纯“圈地“，抢占新用户的人口/流量红利已经被收割完毕；硬软件市场获得增量的竞争更加剧烈，市场不得不用技术、产品服务或商业流程提效等创新投入，应对越来越激烈的市场压力。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-a664f25f5138b613.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-2：全球互联网用户增速疾速放缓  数据来源：2018互联网女皇报告
+##### 图 1-2：全球互联网用户增速疾速放缓  数据来源：2018互联网女皇报告
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-b9228ab5944dc779.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-3：中国市场移动互联网用户自14年开始增速持平，17年增速显著下跌  数据来源：2018互联网女皇报告
+##### 图 1-3：中国市场移动互联网用户自14年开始增速持平，17年增速显著下跌  数据来源：2018互联网女皇报告
 
 市场规模的饱和，硬件和软件厂商又如何应对趋势变化，带来怎样的创新服务？
 
@@ -45,13 +45,13 @@
 全球智能手机渗透率接近饱和（90%），中国市场新智能手机渗透率40%；手机厂商无法获得规模增量，只能不断优化手机的性能、功能，同时压缩成本降低售价，让存量用户为更好体验换机（摩尔定律）。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-7d328a78371419ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-4：新智能机价位持续降低，但同时功能在持续升级；这能侧面说明用户换新机动力充足 数据来源：2018互联网女皇报告
+##### 图 1-4：新智能机价位持续降低，但同时功能在持续升级；这能侧面说明用户换新机动力充足 数据来源：2018互联网女皇报告
 所以越来越多的用户能用上廉价智能机，享受着更好的硬件和软件体验。手机硬件条件的完善，对性能配置要求高的软件更友好，也催化着各类多媒体应用的快速发展，比如手机相机、AR和AI加持拍照、相片处理类APP。
 
 业务范式转移提供了更多媒体产品服务：流量之争到现在的时长之争，从之前关注总下载量，DAU转变成现在更看重停留时长等反应存量市场活跃的指标；市场更看重娱乐、媒体类产品和服务的创新。因此近年来，媒体数娱类应用增长更加迅猛
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-791f4cc5fd0a4a82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-5：二级类目时长同比增速对比，影音娱乐类增长  数据来源：QuestMoblie 数据库
+##### 图 1-5：二级类目时长同比增速对比，影音娱乐类增长  数据来源：QuestMoblie 数据库
 
 ### 1.1.3 支付方驱动
 
@@ -60,33 +60,32 @@
 传统文化娱乐类中主要包含长视频、游戏、资讯图文和短视频；其中短视频是一种更具象，同时成产成本
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-09f021a25bfb674c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-6：2017国内移动互联网投资分布中，文化娱乐类已经逼近电商 数据来源：中国通信信息研究院
+##### 图 1-6：2017国内移动互联网投资分布中，文化娱乐类已经逼近电商 数据来源：中国通信信息研究院
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-a30b00a8af737dbb.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-7：重点短视频生产者融资事件  数据来源：腾讯科技
+##### 图 1-7：重点短视频生产者融资事件  数据来源：腾讯科技
 
 
 2. 广告主对在线、视频类投资规模在增长
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-408b8453e98a23fd.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-8：移动广告投放中，短视频投资比例将持续增长    来源：InMobi 2017中国程序化广告报告
+##### 图 1-8：移动广告投放中，短视频投资比例将持续增长    来源：InMobi 2017中国程序化广告报告
 
 这其中，就广告形式而言，视频广告无疑是最受关注的。据eMarketer数据显示，2016年中国程序化数字视频广告花费达到了12.1亿美元，增长率超过100%。视频在整体程序化视频展示广告花费中所占的比重也从2014年的4.2%上升到了10.9%，增长超过了2倍。同时，eMarketer还预测，在未来至少2年内，程序化视频广告花费的增长将继续保持对电商广告、横幅广告、富媒体等其他广告形式的领先。据InMobi移动广告网络调查的结果显示，移动视频广告的点击率平均是横幅广告的5倍，原生广告的2倍，插屏广告的2倍，视频广告是效果最好的。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-ed8624be982cc437.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-9：这也是因为APP视频广告转化效率最高  来源：InMobi 移动网络调查 2017
+##### 图 1-9：这也是因为APP视频广告转化效率最高  来源：InMobi 移动网络调查 2017
 
 
 3. 平台驱动：各家都开始逐利与短视频赛道并且斥巨资争夺、奖赏内容生产者
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-77da2a97be061776.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-#### 图 1-10：互联网巨头纷纷布局短视频行业   主要聚焦短视频社区、短视频工具和短视频社交平台三种产品类型
+##### 图 1-10：互联网巨头纷纷布局短视频行业   主要聚焦短视频社区、短视频工具和短视频社交平台三种产品类型
 
 随着互联网进入下半场，如何寻找新的流量增长点成为竞争关键。kill_time的领域中，长视频、游戏、资讯、直播都已经发展成熟；并且周期较长；短视频作为一类更具象、更碎片化的媒体，交互上更沉浸，消费成本更低，更容易获得用户亲睐。这一阶段，巨头日活、停留时长都已经接近饱和，也在寻找一个新的增长点；短视频同时也能丰富内容产品矩阵，形成更好的壁垒。
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-722a23583dc35956.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-11：自制图总结短视频行业发展良性循环驱动力  
+##### 图 1-11：自制图总结短视频行业发展良性循环驱动力  
 
 
 ### 1.1.4 短视频行业大爆发带来的发展优势
@@ -97,7 +96,7 @@
 ## 1.2 短视频领域中，短视频社交类应用填补需求空白；抖音定位精准
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12955232-73e73b196807730b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#### 图 1-12：中国影音娱乐消费时长增长变化中，唯一受到侵蚀的是社交平台。也侧面说明短视频社交相较于传统的社交平台，对社交需求满足地更好；否则受到侵蚀的应该是内容消费类的资讯、长视频、音频等类目  数据来源：2018互联网女皇报告
+##### 图 1-12：中国影音娱乐消费时长增长变化中，唯一受到侵蚀的是社交平台。也侧面说明短视频社交相较于传统的社交平台，对社交需求满足地更好；否则受到侵蚀的应该是内容消费类的资讯、长视频、音频等类目  数据来源：2018互联网女皇报告
 
 中国用户缺少一个够格承载 “在线身份” 的内容平台和社交网络。大众化的、名片式的社交网络，可以除了微信QQ等即时通讯外，让更多人认识自己。像 Facebook 这样的产品，它们承载了每个人在虚拟世界的公共身份。它不追求私密，而是为了让所有人快速地了解你。用户会在发表内容前更加用心，达到维护自己网络身份的目的。然而，这种身份必须被一种约定俗成的价值观认可，社交网络才有存在的可能。并不是所有的产品都能做到这一点。首先，许多成熟的社交产品已经略显疲态，无论在产品功能还是社区调性上已经固定。为了流量和规模，更偏向媒体化，比如微博；陌陌、脉脉、人人网为代表的社交平台，又因为过于垂直，不可能大众化全民化。一些基于PC的好的社区产品又没有很好地把握移动互联网的趋势，比如“豆瓣”和“贴吧” 。
 
@@ -425,7 +424,9 @@
 
 #### 2. 年龄分布
 
-![image.png](https://upload-images.jianshu.io/upload_images/7259374-6b3e8b2ad16dae37.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-b68c0e00c712ef51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-6d326c5ca7682051.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/7259374-06c116bd36ddce83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![image.png](https://upload-images.jianshu.io/upload_images/7259374-e68badf13d7d99a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
