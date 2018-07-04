@@ -67,7 +67,7 @@
 
 
 
--![image.png](hhttps://upload-images.jianshu.io/upload_images/12955232-14d44ad80843f638.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+-![image.png](https://upload-images.jianshu.io/upload_images/12955232-14d44ad80843f638.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 图11：自制图总结短视频行业发展良性循环驱动力  
 
 
